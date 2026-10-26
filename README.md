@@ -64,7 +64,7 @@ The table below outlines leading commercial time card and timesheet systems, sor
 
 ## 💻 Open-Source Time Card & Timesheet Projects
 
-Active open-source repositories for self-hosted timesheets, developer time cards, and sovereign workforce tracking. Sorted in **descending order by GitHub star count**.
+Active open-source repositories for self-hosted timesheets, developer time cards, and sovereign workforce tracking. Sorted in **descending order by GitHub Stars_Count**.
 
 - **[Odoo Timesheets](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   *Enterprise ERP suite with comprehensive native Timesheets, project time allocation, overtime tracking, approval workflows, and billable client invoicing.*
@@ -144,7 +144,7 @@ Contributions are welcome! Help keep this ecosystem comprehensive, factual, and 
 1. **Fork this repository** to your GitHub account.
 2. **Add or update entries** in `README.md` following the existing format:
    - For SaaS tools: include Product, Company Size, Starting Price, Free Tier Limits, and Core Features.
-   - For Open-Source tools: include repo link, star badge, and an accurate one-sentence technical summary.
+   - For Open-Source tools: include repo link, Stars_Badge, and an accurate one-sentence technical summary.
 3. Verify that links are direct and descriptions remain neutral and objective.
 4. **Submit a Pull Request** with a concise summary of changes.
 
